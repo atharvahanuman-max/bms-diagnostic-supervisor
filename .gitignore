@@ -1,0 +1,9 @@
+build/
+*.o
+*.d
+*.out
+*.exe
+*.log
+core
+fault_log.txt
+summary_report.txt
