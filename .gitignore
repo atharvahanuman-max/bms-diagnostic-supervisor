@@ -7,3 +7,4 @@ build/
 core
 fault_log.txt
 summary_report.txt
+.vscode/

@@ -3,6 +3,7 @@
 
 /* ---- Pack and storage sizes ---- */
 #define CELLS_IN_SERIES            4       /* series cells in the pack */
+#define SAMPLE_FIELD_COUNT         (3 + CELLS_IN_SERIES)
 #define NOMINAL_CAPACITY_AH        10.0    /* pack nominal capacity, Ah */
 #define MAX_SAMPLES                3600    /* samples held in memory */
 #define MAX_EVENTS                 256     /* fault events held in memory */
